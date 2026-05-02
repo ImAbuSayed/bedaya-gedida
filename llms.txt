@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي مشتاق إليك
+> نور الصباح يشرق من عينيك
+> في كل لحظة روحي بين يديك
+> أنت قدري وكل ما أملك فيك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
