@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/bedaya-gedida/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Request Licensing for Bedaya Gedida](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Official Music Licensing for Bedaya Gedida](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
