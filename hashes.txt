@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bedaya Gedida
+
+This log tracks the cryptographic history and versioning for the song **Bedaya Gedida** (bedaya-gedida).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T03:01:59.413472 | `v1` | `8a0f97e27afae011a5419cc035538ad655e885764503e8987c7ae5921008eaa7` | `604b6fe94ed924dc4a15b58ffeb9529db6e70515cbc7ae30d23e9e0a752dff76` | `2026-05-09_bedaya-gedida-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
